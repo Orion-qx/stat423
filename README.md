@@ -15,7 +15,7 @@ response variable:(could be) score/favorite/follower/proportion between favorite
 ## Related Websites
 ##### Original Data is from:  
 <a>https://myanimelist.net/</a>  
-#####Our dataset is from:  
+##### Our dataset is from:  
 <a>https://www.kaggle.com/canggih/anime-data-score-staff-synopsis-and-genre</a>  
 short description:  
 Here is a database from My AnimeList, an anime rating website. The dataset consists of 1563 rows of data and 20 columns, which contains the title, genre, duration, rating, number of people give score, etc. The data include Anime from 1970 to 2018, but the majority of them are from recent years.
